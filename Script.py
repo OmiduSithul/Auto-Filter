@@ -1,7 +1,7 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
-I Am Fιlмeх Cloυd 𝐅𝐢𝐥𝐭𝐞𝐫 𝐗
-               Powered By @FilmexCloud"""
+I Am The Official Filter Bot Of Flix Cinema
+               Powered By @Flix_CinemaSL"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 Here Is The Help For My Commands."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
@@ -9,7 +9,7 @@ Here Is The Help For My Commands."""
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Fιlмeх Cloυd 𝐅𝐢𝐥𝐭𝐞𝐫 𝐗 is a closed source project.   
+- <a href=https://bit.ly/3qLh6Vn>Source Code</a> 
 
 <b>DEVS:</b>
 - <a href=https://t.me/Dark_LordSl>༺🅳🅰️🆁🅺 🅻🅾️🆁🅳༻</a>"""
@@ -18,7 +18,7 @@ Here Is The Help For My Commands."""
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. Fιlмeх Cloυd 𝐅𝐢𝐥𝐭𝐞𝐫 𝐗 should have admin privillage.
+1. I should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
